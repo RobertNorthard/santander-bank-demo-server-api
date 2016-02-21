@@ -18,7 +18,8 @@ import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
 /**
- *
+ * Class to represent a biometric type. 
+ * 
  * @author robertnorthard
  */
 @Entity

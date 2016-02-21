@@ -7,7 +7,8 @@ import javax.persistence.Embeddable;
 import javax.validation.constraints.NotNull;
 
 /**
- *
+ * Represents composite primary key for credential table.
+ * 
  * @author robertnorthard
  */
 @Embeddable

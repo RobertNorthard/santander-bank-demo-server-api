@@ -16,7 +16,7 @@ import javax.validation.constraints.Size;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- *
+ * The class represents a biometric credential.
  * @author robertnorthard
  */
 @Entity
